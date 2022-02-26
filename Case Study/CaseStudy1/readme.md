@@ -20,3 +20,4 @@ The circuit which runs the duration related tasks by starting and ending it by t
 
 ## Memory Unit
 Stores the different heating temperatures for the different tasks.
+ 
