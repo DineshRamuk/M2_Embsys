@@ -9,7 +9,7 @@ According to the classroom strength electricity is to be used.
 
 ## Low Level Requirements:
 IR Sensor
- LCD Display
+LCD Display
 Main Relay Board
 Arduino
 Power Supply
