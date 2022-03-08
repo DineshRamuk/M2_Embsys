@@ -13,3 +13,25 @@ LCD Display
 Main Relay Board
 Arduino
 Power Supply
+
+## SWOT Analysis:
+Strength:
+Energy Conservation
+Cost Effective
+User Friendly
+
+Weakness:
+Less Sensor lifespan
+
+Opportunity:
+Wide rang of implementation
+
+Threats:
+Power cut
+          
+
+
+
+
+
+
