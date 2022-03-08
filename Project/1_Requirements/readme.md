@@ -16,8 +16,8 @@ Power Supply
 
 ## SWOT Analysis:
 Strength:
-Energy Conservation
-Cost Effective
+Energy Conservation,
+Cost Effective,
 User Friendly
 
 Weakness:
