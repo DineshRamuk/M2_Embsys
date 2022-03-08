@@ -8,10 +8,10 @@ Conservation of electricity.
 According to the classroom strength electricity is to be used.
 
 ## Low Level Requirements:
-IR Sensor
-LCD Display
-Main Relay Board
-Arduino
+IR Sensor,
+LCD Display,
+Main Relay Board,
+Arduino,
 Power Supply
 
 ## SWOT Analysis:
